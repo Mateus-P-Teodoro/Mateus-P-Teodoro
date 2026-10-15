@@ -1,16 +1,25 @@
-## Hi there 👋
+**Hi, I'm Mateus!** 👋
 
-<!--
-**Mateus-P-Teodoro/Mateus-P-Teodoro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Double Major in Economics and Mathematics at the University of Southern Mississippi (USM), passionate about applying mathematical models and data science to understand real-world economic problems.
 
-Here are some ideas to get you started:
+Currently, I serve as Vice President of the Brazilian Student Association (BRASA) chapter at USM. I have a strong interest in developing research projects and proposing public policies to foster the economic development of my home country, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔭 What I'm currently working on:
+ - Economic Research: Analyzing IPEA microdata on labor productivity in Brazil, a project I had the honor of presenting at the BRASA Summit Americas at UPenn.
+ - Computer Science: Deepening my knowledge of data structures and algorithm design using Python.
+ - Modeling: Structuring market analyses and sustainability policies (building upon the experience from my internship at the Briyah Institute).
+
+🌱 Areas of Interest:
+ - Mechanism Design
+ - Economic Development
+ - Environmental Economics
+
+🛠️ Tech Stack & Tools:
+ - Languages: R, Python
+ - Data Analysis & Visualization: tidyverse, ggplot2
+ - Reproducible Research: Quarto, RStudio
+ - Tools: Git, GitHub
+
+📫 Let's connect:
+[LinkedIn](https://www.linkedin.com/in/mateus-pires-teodoro)
+[Email](mailto:pteodoro.mateus@gmail.com)
