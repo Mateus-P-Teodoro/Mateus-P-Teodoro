@@ -21,5 +21,5 @@ Currently, I serve as Vice President of the Brazilian Student Association (BRASA
  - Tools: Git, GitHub
 
 📫 Let's connect:
-[LinkedIn](https://www.linkedin.com/in/mateus-pires-teodoro)
-[Email](mailto:pteodoro.mateus@gmail.com)
+ - [LinkedIn](https://www.linkedin.com/in/mateus-pires-teodoro)
+ - [Email](mailto:pteodoro.mateus@gmail.com)
