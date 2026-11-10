@@ -1,25 +1,17 @@
-**Hi, I'm Mateus!** 👋
+# Mateus Pires Teodoro
 
-I am a Double Major in Economics and Mathematics at the University of Southern Mississippi (USM), passionate about applying mathematical models and data science to understand real-world economic problems.
+I am a double-major in Applied Economics and Mathematics at the University of Southern Mississippi, with a strong focus on empirical macroeconomics, institutional economics, and labor productivity in developing nations.
 
-Currently, I serve as Vice President of the Brazilian Student Association (BRASA) chapter at USM. I have a strong interest in developing research projects and proposing public policies to foster the economic development of my home country, Brazil.
+### Featured Research
+* **[Stagnant Brazil? The End of the Demographic Dividend and the Middle-Income Trap](https://github.com/Mateus-P-Teodoro/stagnant-brazil)** 
+  * *Methodology:* Analyzed Brazilian labor productivity and the Middle-Income Trap using large-scale administrative microdata (IBGE/IPEA).
+  * *Tech Stack:* R, `tidyverse`, `ggplot2`, API integrations.
+  * *Highlight:* Presented working paper at the BRASA Summit Americas 2026 (University of Pennsylvania).
 
-🔭 What I'm currently working on:
- - Economic Research: Analyzing IPEA microdata on labor productivity in Brazil, a project I had the honor of presenting at the BRASA Summit Americas at UPenn.
- - Computer Science: Deepening my knowledge of data structures and algorithm design using Python.
- - Modeling: Structuring market analyses and sustainability policies (building upon the experience from my internship at the Briyah Institute).
+### Technical Toolkit
+* **Programming & Markup:** R, Python, LaTeX, Git
+* **Data Science & Econometrics:** Data Wrangling (`tidyverse`, `dplyr`), Advanced Visualization (`ggplot2`), Automations, Linear Algebra, Mathematical Statistics
+* **Languages:** English (Fluent), Portuguese (Native)
 
-🌱 Areas of Interest:
- - Mechanism Design
- - Economic Development
- - Environmental Economics
-
-🛠️ Tech Stack & Tools:
- - Languages: R, Python
- - Data Analysis & Visualization: tidyverse, ggplot2
- - Reproducible Research: Quarto, RStudio
- - Tools: Git, GitHub
-
-📫 Let's connect:
- - [LinkedIn](https://www.linkedin.com/in/mateus-pires-teodoro)
- - [Email](mailto:pteodoro.mateus@gmail.com)
+### Connect
+* [LinkedIn](https://www.linkedin.com/in/mateus-pires-teodoro)
